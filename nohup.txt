@@ -1,0 +1,4 @@
+Example to run background even when disconnected.
+
+nohup <script> <options> > output.log 2>&1 &
+
