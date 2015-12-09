@@ -1,0 +1,4 @@
+example:
+
+perl -i -wpe "s/somename\/escape_path/newname/g" *.sh
+
