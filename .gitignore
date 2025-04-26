@@ -1,2 +1,4 @@
-# no Subversion .svn files
-*.svn
+*.o
+*.out
+*.exe
+*.dSYM
